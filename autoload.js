@@ -1,5 +1,5 @@
 // live2d_path 
-const live2d_path ="https://fastly.jsdelivr.net/gh/GwaGwa0610/live2d-widget@latest/autoload.js";
+const live2d_path ="https://fastly.jsdelivr.net/gh/GwaGwa0610/live2d-widget@v2/autoload.js";
 //const live2d_path = "/live2d-widget/";
 //GwaGwa0610 	
 
